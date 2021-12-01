@@ -1,0 +1,8 @@
+{
+    "flask": {
+        "image": ":blockchain-node-1.blockchain.1",
+        "ports": {
+            "5000": "HTTP"
+        }
+    }
+}

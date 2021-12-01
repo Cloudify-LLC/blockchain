@@ -1,0 +1,1 @@
+aws lightsail create-container-service-deployment --service-name blockchain-node-1 --containers file://containers.json --public-endpoint file://public-endpoint.json

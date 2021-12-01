@@ -1,0 +1,1 @@
+aws lightsail push-container-image --service-name blockchain-node-1 \ --label blockchain --image blockchain

@@ -1,0 +1,1 @@
+aws lightsail get-container-services --service-name blockchain-node-1
